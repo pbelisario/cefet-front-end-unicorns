@@ -48,7 +48,7 @@ do título "A Música do Unicórnio", usando o arquivo
 ## FAQ
 
 - Que **fonte é essa "Kaushan Script"**? Acho que não funcionou.
-  - Ela é uma fonte que normalmente não está instalada nos computadores. Nesse caso, você pode usar a fonte que está **hospedada no Google Fonts** (procure por Kasuhan Script lá)
+  - Ela é uma fonte que normalmente não está instalada nos computadores. Nesse caso, você pode usar a fonte que está **hospedada no Google Fonts** (procure por Kaushan Script lá)
 - **Espacinho branco** ao redor da página. Como tirar?
   - Por padrão, o elemento `<body>` possui uma margem de `8px` nas quatro
     direções. Esse espaço é devido a isso.
